@@ -1,0 +1,41 @@
+/* Business.css */
+.restaurant-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 16.66rem;
+  margin: 0 0.5rem 2.3rem 0.5rem;
+  box-
+}
+
+img {
+  height: 16.66rem;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  background: #000;
+  border-radius: 5px;
+}
+.image img {
+  width: 100%;
+}
+.name {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.category,
+.rating {
+  color: rgb(152, 97, 3);
+  font-weight: bold;
+}
+
+.info {
+  padding-bottom: 10px;
+}
+
+p {
+  margin: 0;
+}
