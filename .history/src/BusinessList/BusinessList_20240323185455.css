@@ -1,0 +1,9 @@
+/* BusinessList.css */
+.business-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 20px;
+  }
